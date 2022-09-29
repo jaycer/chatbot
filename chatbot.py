@@ -1,3 +1,4 @@
+#Source: https://replit.com/@GWCEducation/Meet-My-Chatbot-Friend-Sample-Project#main.py
 #Meet my Chatbot Friend Starter Code
 
 #chatbot introduces themself
